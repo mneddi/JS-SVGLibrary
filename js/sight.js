@@ -6,4 +6,8 @@ class SVGElement {
 
         return this;
     }
+
+    attr(attrs) {
+        return this;
+    }
 }
