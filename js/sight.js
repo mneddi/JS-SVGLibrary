@@ -14,4 +14,8 @@ class SVGElement {
 
         return this;
     }
+
+    append(element) {
+        return this;
+    }
 }
